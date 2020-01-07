@@ -6,6 +6,7 @@
 ### 1. การเริ่มต้นใช้งาน
 1.1 เปิด Anaconda Prompt
 ![anaconda](81836942_603709900393018_2687064443845607424_n.jpg)
+
 1.2 ใช้คำสั่ง cd "C:\Tangmo\Programming\Python_dataviz" ที่อยู่ของงาน
 
 ### 2.  install package ใน python
@@ -27,7 +28,9 @@
 ![github](81434234_708544876339323_556229914446004224_n.jpg)
 3. เข้าสู่ระบบ
 ![github](81333341_474328256561864_6081075007054675968_n.jpg)
-
+4. สร้างแฟ้มงานใหม่
+![new](new.jpg)
+![newcreate](newcreate.jpg)
 ส่วนที่ 2 การใช้ git บนเครื่อง
 1. ทำการ downlode visual Studio และติดตั้งบนเครื่อง
 ![visual](81782279_2507907979529264_7956438048395231232_n.jpg)
@@ -36,3 +39,15 @@
 2.2 ทำการเชื่อม git ในเครื่อง เข้ากับ github บท internet
 ใช้คำสั่ง git clone ตามด้วยURL 
 URL ที่ต้องเชื่อมเอามาจาก github
+![url](url.jpg)
+
+คำสั่งที่สำคัญของ Git
+1. git clone URL
+เชื่อมต่อ git เข้ากับ internet (ทำแค่ครั้งเดียว)
+2. git status
+ดูสถานะการเชื่อมต่อของ git
+3. gid add  ' '
+add ไฟล์ที่ยังไม่เชื่อมต่อ
+4. git commit -m " "
+5. git push 
+อัพงานขึ้นบน internet
